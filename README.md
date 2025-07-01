@@ -4,30 +4,33 @@ A sleek and responsive YouTube clone built using **React**, **Redux**, and the o
 
 ---
 
-## 🔥 Features
+##  Features
 
-- 🎬 **Dynamic Video Feed** (Home page)
-- 🔎 **Live Video Search** using YouTube Data API
-- 📺 **Dedicated Video Watch Page** with related content
-- 🧭 **Sidebar Navigation** (Home, Shorts, Subscriptions, Library, History, etc.)
-- 🌙 **Dark Mode Inspired Theme**
-- 🧠 **State Management with Redux**
-- ⚙️ **Reusable Components** (VideoCard, SidebarItem, Header, etc.)
+-  **Dynamic Video Feed** (Home page)
+-  **Live Video Search** using YouTube Data API
+-  **Dedicated Video Watch Page** with related content
+-  **Sidebar Navigation** (Home, Shorts, Subscriptions, Library, History, etc.)
+-  **Dark Mode Inspired Theme**
+-  **State Management with Redux**
+-  **Reusable Components** (VideoCard, SidebarItem, Header, etc.)
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ### 🔻 Home Page
 ![Home Page](https://github.com/user-attachments/assets/83ecc987-6e63-4b16-8d18-1bef6293b9ff)
 
 
+
 ### 🔻 Watch Page
 ![Watch Page](https://github.com/user-attachments/assets/a8fca9d8-d08c-42cc-89e5-e322e0df9b28)
-)
+
+
 
 ### 🔻 Search Results - DSA
 ![Search DSA](https://github.com/user-attachments/assets/6bfef0e5-767e-44de-b58b-9bed8b08e912)
+
 
 
 ### 🔻 Search Results - Yo Yo Honey Singh
