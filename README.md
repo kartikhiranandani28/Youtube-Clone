@@ -1,6 +1,6 @@
 # 📺 YouTube Clone (React + Redux + YouTube Data API)
 
-A sleek and responsive YouTube clone built using **React**, **Redux**, and the official **YouTube Data API v3** from Google Cloud. This project mimics the core functionalities of YouTube — including search, video playback, and sidebar navigation — with a modern UI inspired by the original platform.
+A sleek and responsive YouTube clone built using **React**, **Redux**, and the official **YouTube Data API v3** from Google Cloud. This project mimics the core functionalities of YouTube — including search and video playback — with a modern UI inspired by the original platform.
 
 ---
 
@@ -9,7 +9,6 @@ A sleek and responsive YouTube clone built using **React**, **Redux**, and the o
 -  **Dynamic Video Feed** (Home page)
 -  **Live Video Search** using YouTube Data API
 -  **Dedicated Video Watch Page** with related content
--  **Sidebar Navigation** (Home, Shorts, Subscriptions, Library, History, etc.)
 -  **Dark Mode Inspired Theme**
 -  **State Management with Redux**
 -  **Reusable Components** (VideoCard, SidebarItem, Header, etc.)
